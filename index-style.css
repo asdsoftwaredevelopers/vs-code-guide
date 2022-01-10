@@ -9,6 +9,7 @@
 
 /*text Editing*/
 .navbar {
-color: blue;
-padding: 20px;    
+display:block;
+padding:50px;
+color:red;    
 }
