@@ -8,7 +8,8 @@
 }
 
 /*text Editing*/
-.navbar {
-color:red;
-text-style:arial;    
+.navbar .a{
+float:left;
+color: red;
+text-style: arial;    
 }
