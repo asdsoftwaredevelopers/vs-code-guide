@@ -1,4 +1,7 @@
-# Visual studio Code
+# Before you read
+Before reading this readme.md file, you should know that this site is just for giving knowledge. This site is not for poking somebody.
+
+# Visual studio Code Guide
 Welcome to Visual Studio Code Guide. This site will help you in in learning all the concept of Visual Studio Code. if you doesn't know about this site, go below.
 
 # About VS Code
