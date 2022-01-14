@@ -1,1 +1,15 @@
+/*Index CSS*/
 
+/*Title Edits*/
+.title {
+    text-align: center;
+    color: rgb(247, 139, 38);
+    padding: 1px;
+}
+
+/*text Editing*/
+.navbar .a{
+float:left;
+color: red;
+text-style: arial;    
+}
